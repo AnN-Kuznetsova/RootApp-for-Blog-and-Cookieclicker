@@ -1,7 +1,7 @@
 const AppRoute = {
-  MAIN: `/`,
-  BLOG:`/blog`,
-  COOKIECLICKER: `/cookieclicker`,
+  MAIN: `http://root-app.localhost`,
+  BLOG:`http://blog.localhost`,
+  COOKIECLICKER: `http://cookieclicker.localhost`,
 };
 
 
